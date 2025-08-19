@@ -2,7 +2,7 @@
 
 - 🎓 Currently enrolled in the **Full Stack Engineer course at Codecademy**
 - 🤖 Building full stack web apps with **AI tools** like ChatGPT, GitHub Copilot & Supabase
-- 💼 Projects in progress: [WanderWise](https://github.com/corze73/WanderWise), [Beam](https://github.com/corze73/Beam)
+- 💼 Projects in progress: [Beam](https://github.com/corze73/Beam)
 - ⚽ Assistant manager at a semi-pro football club — blending leadership, teamwork, and tech
 - 🛠️ Always learning, always building — one project at a time
 - 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/cory-charles-68851757)
