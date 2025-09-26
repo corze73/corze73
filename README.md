@@ -1,10 +1,40 @@
-## 👋 Hi, I’m Cory
+# Cory Charles — Service & Solutions Software Engineer → Full-Stack & AI Builder
 
-- 🎓 Currently enrolled in the **Full Stack Engineer course at Codecademy**
-- 🤖 Building full stack web apps with **AI tools** like ChatGPT, GitHub Copilot & Supabase
-- 💼 Projects in progress: [Beam](https://github.com/corze73/Beam)
-- ⚽ Assistant manager at a semi-pro football club — blending leadership, teamwork, and tech
-- 🛠️ Always learning, always building — one project at a time
-- 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/cory-charles-68851757)
+Currently a **Service & Solutions Software Engineer** in the print/software industry,  
+shifting into **full-stack and AI development**.  
 
-> **Mission:** Build smarter, faster, and more accessible apps using the power of AI 💡
+I build production-ready apps with **React, TypeScript, Supabase, Neon, and VS Code**.
+
+---
+
+## 🚀 Projects
+- **FACT – Find A Coach Today**  
+  Progressive Web App connecting players & coaches (bookings, profiles, reviews).  
+  👉 https://findacoachtoday.com  
+
+- **CoreAI-Studio**  
+  My AI-powered services studio for automation, software, and content solutions.  
+  👉 https://www.coreai-studio.com  
+
+- **AFMG – Aspire Football Management Group**  
+  Club/player management site built with GitHub Pages & Netlify.  
+
+---
+
+## 🛠️ Tech I Use
+`React` · `TypeScript` · `Supabase` · `Neon` · `Node.js` · `Expo (PWA)` · `Stripe` ·  
+`Netlify` · `GitHub Pages` · `VS Code`
+
+---
+
+## 📈 Current Focus
+- Supabase **Row Level Security (RLS)** & role-based dashboards  
+- Neon for scalable Postgres in production  
+- Booking flows + profiles in FACT  
+- Stripe payments & notification system  
+
+---
+
+## 📬 Connect
+- LinkedIn: [linkedin.com/in/cory-charles-68851757](https://linkedin.com/in/cory-charles-68851757)  
+- GitHub: [github.com/corze73](https://github.com/corze73)
